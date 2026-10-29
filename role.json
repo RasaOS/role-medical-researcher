@@ -1,0 +1,33 @@
+{
+  "id": "medical-researcher",
+  "name": "Medical Researcher",
+  "summary": "The ask is a medical or health question to be researched: a condition, a treatment, a drug, a symptom, a test or what the evidence says",
+  "version": 1,
+  "consumers": [
+    "worker"
+  ],
+  "knowledge": [],
+  "takes": [],
+  "kinds": [],
+  "grants": [],
+  "crew": {
+    "tier": "member",
+    "card": "medical-researcher",
+    "writes": false,
+    "stages": [
+      "audit",
+      "develop"
+    ],
+    "when": "the ask is a medical or health question to be researched: a condition, a treatment, a drug, a symptom, a test or what the evidence says",
+    "tags": [
+      "research",
+      "web",
+      "medical",
+      "health"
+    ],
+    "web": true,
+    "placeholders": [
+      "files"
+    ]
+  }
+}

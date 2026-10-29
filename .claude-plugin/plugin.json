@@ -1,0 +1,5 @@
+{
+  "name": "rasa-role-medical-researcher",
+  "version": "0.1.0",
+  "description": "The Medical Researcher role (`medical-researcher`) as a RasaOS role module. The ask is a medical or health question to be researched: a condition, a treatment, a drug, a symptom, a test or what the evidence says"
+}
